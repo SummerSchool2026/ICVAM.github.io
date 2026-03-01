@@ -29,6 +29,7 @@ format:
 
 -   Prof. Ashis Mallick
 
+
 ### Co-Conveners
 
 -   Prof. Sachin Kr Singh
@@ -47,7 +48,9 @@ format:
 
 -   Prof. Aman Kumar
 
--   Prof. (Md.) S. Azam • Prof. R.R. Das
+-   Prof. (Md.) S. Azam
+
+-   Prof. R.R. Das
 
 -   Prof. Antarip Poddar
 

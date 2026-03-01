@@ -14,23 +14,23 @@ format:
 ::: {.g-col-12 .g-col-md-6}
 -   **Prof. Mikhail Zheludkevich**\
     Helmholtz-Zentrum Hereon, Germany
--   **Prof. R. Shabadi**\
-    University of Lille, France
--   **Prof. Nele Moelans**\
-    KU Leuven, Belgium
+-   **Prof. Saurav Goel**\
+    London South Bank University, UK
+-   **Prof. Atul Bhaskar**\
+    University of Southampton, UK
 -   **Prof. Santosh Kapuria**\
     IIT Delhi
 -   **Prof. Srikanth Vedantam**\
     IIT Madras
 -   **Prof. P. Chandramauli**\
     IIT Madras
--   **Prof. Narashima**\
+-   **Prof. Rudra Pratap**\
     IISc Bangalore
 :::
 
 ::: {.g-col-12 .g-col-md-6}
--   **Prof. Craig Carter**\
-    MIT, USA
+-   **Prof. Prakash Thamburaja**\
+    National University of Malaysia (UKM), Malaysia
 -   **Prof. Manoj Gupta**\
     NUS, Singapore
 -   **Prof. Stephen Kirkup**\
@@ -52,6 +52,17 @@ format:
 ::: {.g-col-12 .g-col-md-6}
 -   **Prof. Rajib Chowdhury**\
     IIT Roorkee
+-   **Prof. B. Venkatesham**\
+    IIT Hyderabad
+-   **Prof. Abhijit Sarkar**\
+    IIT Madras
+:::
+
+::: {.g-col-12 .g-col-md-6}
+-   **Prof. Tanmay K. Bhandakkar**\
+    IIT Bombay
+-   **Dr. S. Ganasan**\  
+    GTRE, DRDO, Bangalore
 :::
 ::::
 
@@ -59,26 +70,31 @@ format:
 
 ::::: grid
 ::: {.g-col-12 .g-col-md-6}
--   **Prof. Shailendra Joshi**\
-    University of Houston, USA
--   **Prof. Manoj Gupta**  NUS, Singapore
+-   **Prof. Mikhail Zheludkevich**\
+    Helmholtz-Zentrum Hereon, Germany
+-   **Prof. Manoj Gupta**\
+    NUS, Singapore
 -   **Prof. Rajashekhara Shabadi**\
     Université de Lille, France
 -   **Prof. Prakash Thamburaja**\
     Universiti Kebangsaan, Malaysia
 -   **Prof. Atul Bhaskar**\
     University of Southampton, England
+-   **Mrs. Ankita Shrabornee**\
+    Simens, USA
 :::
 
 ::: {.g-col-12 .g-col-md-6}
--   **Prof. Raman Singh**\
-    Monash University, Australia
+-   **Prof. Helmholtz-Zentrum Hereon, Germany**\
+    VSB Technical University, Czech Republic
 -   **Prof. Stephen Kirkup**\
     University of Central Lancashire, UK
 -   **Prof. Satish Kumar**\
     Georgia Institute of Technology, USA
 -   **Prof. Joseph Cusumano**\
     Pennsylvania State University, USA
+-   **Prof. Krishna Agarwal**\
+    UiT The Arctic University of Norway
 :::
 :::::
 
@@ -88,7 +104,7 @@ format:
 ::: {.g-col-12 .g-col-md-6}
 -   **Prof. M.L. Munjal**\
     Honorary Professor, IISc Bangalore
--   **Prof. Narasimha**\
+-   **Prof. Rudra Pratap**\
     IISc Bangalore
 -   **Prof. V.R. Sonti**\
     IISc Bangalore
@@ -114,12 +130,16 @@ format:
     Dean (R&D), IIT(ISM) Dhanbad
 -   **Prof. S.K. Das**\
     Dean (Faculty), IIT(ISM) Dhanbad
--   **Prof. R.I. Sujith**\
+-   **Prof. Abhijit Sarkar**\
     IIT Madras
--   **Prof. S.K. Panda**\
-    IIT Bhubaneswar
+-   **Prof. Tanmay K. Bhandakkar**\
+    IIT Bombay
 -   **Prof. Anup Akkoorath Mana**\
     IIT Palakkad
+-   **Prof. S.K. Panda**\
+    IIT Bhubeneswar
+-   **Prof. Om Prakash Singh**\
+    IIT BHU
 :::
 
 ::: {.g-col-12 .g-col-md-6}
@@ -133,7 +153,7 @@ format:
     Mahindra Research Centre, Chennai
 -   **Dr. V. Ganesan**\
     GTRE Bangalore
--   **Dr. S. Barad**\
+-   **Dr. Sanjay. G. Barad**\
     GTRE Bangalore
 -   **Prof. Prasun Jana**\
     IIT Kharagpur
@@ -159,5 +179,7 @@ format:
     AGL, IIT(ISM), Dhanbad
 -   **Prof. R.I. Sujith**\
     IIT Madras
+-   **Prof. Praveen Krishna**\
+    IR, IIST Thiruvananthapuram
 :::
 :::::

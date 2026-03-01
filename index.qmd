@@ -8,6 +8,8 @@ format:
     toc: false
 ---
 
+![](images/iit-campus.gif)
+
 :::::: grid
 ::: {.g-col-12 .g-col-md-8 .justify-text}
 ## About Conference
@@ -20,7 +22,7 @@ Established in 1926, IIT(ISM) Dhanbad is located in India’s coking coal belt, 
 
 ## About the Department
 
-The Department of Mechanical Engineering, established in 1999, has celebrated 25 years of excellence and is the largest department in the institute with 45 faculty members. It offers two undergraduate courses: Mechanical Engineering and Mining Machinery Engineering. Faculty and students collaborate on research in areas like microfluidics, robotics, renewable energy, R&AC, biofluid mechanics, aeroacoustics and more. Students engage in the Robotics Club, Smart Manufacturing, ASME chapter and other professional bodies. The department oversees many R&D projects with student involvement in national and international research and consultancy. To know more about ME department, kindly visit ME, IIT(ISM) Dhanbad.
+The Department of Mechanical Engineering, established in 1999, has celebrated 25 years of excellence and is the largest department in the institute with 46 faculty members. It offers two undergraduate courses: Mechanical Engineering and Mining Machinery Engineering. Faculty and students collaborate on research in areas like microfluidics, robotics, renewable energy, R&AC, biofluid mechanics, aeroacoustics and more. Students engage in the Robotics Club, Smart Manufacturing, ASME chapter and other professional bodies. The department oversees many R&D projects with student involvement in national and international research and consultancy. To know more about ME department, kindly visit ME, IIT(ISM) Dhanbad.
 :::
 
 :::: {.g-col-12 .g-col-md-4}

@@ -13,14 +13,80 @@ format:
 # MAJOR THEMES
 :::
 
-::::::::::::::::::::: grid
-::::::::::: {.g-col-12 .g-col-md-6}
+::::::::::::::::::::::::: grid
+::::::::::::: {.g-col-12 .g-col-md-6}
+::: theme-pill
+Aerodynamics and Aeroacoustics
+:::
+
+::: theme-pill
+AI-ML for design
+:::
+
+::: theme-pill
+Bio-materials and mechanics
+:::
+
+::: theme-pill
+Composite materials
+:::
+
+::: theme-pill
+Duct acoustics / Thermo-acoustics
+:::
+
+::: theme-pill
+Dynamics and control
+:::
+
+::: theme-pill
+Experimental Mechanics
+:::
+
+::: theme-pill
+Fault diagnostics and prognostics
+:::
+
+::: theme-pill
+Fluid-structure interaction
+:::
+
+::: theme-pill
+Hydro-acoustics
+:::
+:::::::::::::
+
+::::::::::::: {.g-col-12 .g-col-md-6}
+::: theme-pill
+Mechanical meta-materials
+:::
+
+::: theme-pill
+MEMS/NEMS and semiconductors
+:::
+
+::: theme-pill
+Recent advances in material science
+:::
+
+::: theme-pill
+Signal processing for mechanical system
+:::
+
+::: theme-pill
+Solid mechanics and design
+:::
+
+::: theme-pill
+Structural acoustics
+:::
+
 ::: theme-pill
 Structural vibration
 :::
 
 ::: theme-pill
-Dynamics and control
+Surface science and corrosion engineering
 :::
 
 ::: theme-pill
@@ -30,55 +96,5 @@ Vibration energy harvester
 ::: theme-pill
 Wave propagation in elastic media
 :::
-
-::: theme-pill
-Structural acoustics
-:::
-
-::: theme-pill
-Duct acoustics / Thermo-acoustics
-:::
-
-::: theme-pill
-Hydro-acoustics
-:::
-
-::: theme-pill
-AI-ML for design
-:::
-:::::::::::
-
-::::::::::: {.g-col-12 .g-col-md-6}
-::: theme-pill
-Fluid-structure interaction
-:::
-
-::: theme-pill
-Fault diagnostics and prognostics
-:::
-
-::: theme-pill
-Aerodynamics and Aeroacoustics
-:::
-
-::: theme-pill
-Mechanical meta-materials
-:::
-
-::: theme-pill
-Solid mechanics and design
-:::
-
-::: theme-pill
-Thermo-elasticity
-:::
-
-::: theme-pill
-Recent advances in material science
-:::
-
-::: theme-pill
-Bio-mechanics
-:::
-:::::::::::
-:::::::::::::::::::::
+:::::::::::::
+:::::::::::::::::::::::::

@@ -13,51 +13,9 @@ format:
 # Organizing Committee
 :::
 
-### Patron
+### Aditi Sengupta
 
--   Prof. Sukumar Mishra, Director, IIT(ISM) Dhanbad
+### Omkar Mypati
 
-### Co-Patron
+### Suparno Bhattacharyya
 
--   Prof. Dheeraj Kumar Director, TEXMiN IIT(ISM) Dhanbad
-
-### Convener
-
--   Prof. Rabindra Nath Hota
-
-### Jt. Convener
-
--   Prof. Ashis Mallick
-
-
-### Co-Conveners
-
--   Prof. Sachin Kr Singh
-
--   Prof. Suparno Bhattacharyya
-
-### Core Committee Members
-
--   Prof. S.K. Ghoshal
-
--   Prof. P.K. Mahato
-
--   Prof. Arun Dayal
-
--   Prof. Kabilan B
-
--   Prof. Aman Kumar
-
--   Prof. (Md.) S. Azam
-
--   Prof. R.R. Das
-
--   Prof. Antarip Poddar
-
--   Prof. Aditi Sengupta
-
--   Prof. Sarthak S. Singh
-
--   Prof. Suman Saha
-
--   Prof. Omkar Mypati

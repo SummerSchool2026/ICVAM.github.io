@@ -16,85 +16,23 @@ format:
 ::::::::::::::::::::::::: grid
 ::::::::::::: {.g-col-12 .g-col-md-6}
 ::: theme-pill
-Aerodynamics and Aeroacoustics
+Fluid Mechanics
 :::
 
 ::: theme-pill
-AI-ML for design
+Manufacturing
 :::
 
-::: theme-pill
-Bio-materials and mechanics
-:::
-
-::: theme-pill
-Composite materials
-:::
-
-::: theme-pill
-Duct acoustics / Thermo-acoustics
-:::
-
-::: theme-pill
-Dynamics and control
-:::
-
-::: theme-pill
-Experimental Mechanics
-:::
-
-::: theme-pill
-Fault diagnostics and prognostics
-:::
-
-::: theme-pill
-Fluid-structure interaction
-:::
-
-::: theme-pill
-Hydro-acoustics
-:::
 :::::::::::::
 
 ::::::::::::: {.g-col-12 .g-col-md-6}
 ::: theme-pill
-Mechanical meta-materials
+Material Science
 :::
 
 ::: theme-pill
-MEMS/NEMS and semiconductors
+Solid Mechanics
 :::
 
-::: theme-pill
-Recent advances in material science
-:::
-
-::: theme-pill
-Signal processing for mechanical system
-:::
-
-::: theme-pill
-Solid mechanics and design
-:::
-
-::: theme-pill
-Structural acoustics
-:::
-
-::: theme-pill
-Structural vibration
-:::
-
-::: theme-pill
-Surface science and corrosion engineering
-:::
-
-::: theme-pill
-Vibration energy harvester
-:::
-
-::: theme-pill
-Wave propagation in elastic media
-:::
 :::::::::::::
 :::::::::::::::::::::::::
